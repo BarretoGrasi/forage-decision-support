@@ -1,14 +1,15 @@
 {
   ".gitignore": "737ff6074f879535e13aef9aae9d501772960606a9c0e241f2d82c5e785debf7",
-  "README.md": "a809ad5c452fb230d6a200dbd52f657051ec9ff256457067387c1702fb1d4688",
+  "README.md": "53a1a5a223c0c2e297be6b203ea0e3884395e50d4d385fbe8bcf43ecd429bea6",
   "data/correcoes_curadoria.csv": "36d710ac9a31818e076e211c0e7c6e59a4fc15292869f1e4ca9cb1e00941e3e4",
   "data/db_pastagem2_original.csv": "6df8f387191cc88f9ac6ee1bd7e3778f6e25280ff6c1c80b72d99c505fb3b63b",
   "docs/reconciliation_notes.txt": "6771945674e00bb89353eac3438c3ee08160059c67947cfb9b13f0a924a8722c",
-  "docs/verification.md": "3023b943cb2458ef43d7ebf867becf8674ca3ff46ed01a5db907269e0c3e0b90",
+  "docs/verification.md": "ca27eef432c109664916d79bc3fa9dad89109c7a794dc7cbe309c76b0113a61a",
   "requirements-clustering.txt": "dd6b8bda60cce39101842e792fbbe6bb2124a9021cd4961da5976f4d3b31bb6e",
   "requirements.txt": "d7f48ef7c8e363b235513b9d8d282e0a2866d2f5151b1da48bb724bffcbc886d",
   "scripts/figures.py": "c08d84a92314aedf31de30ae62e557e0a6fe4f1c83e24139aeea8dde1d9a3439",
   "scripts/recomendador_reconciliado_xaraes_mg5.py": "68072e37e7fa9b336b5fd66bdbbb021ee1093954c429123c72eb8e1321c4980a",
   "scripts/reconciliar_xaraes.py": "1c26595cf6b1e92d5f3cdc0dece94219ac9239bc147358069c4cd0d1c8150509",
-  "scripts/run_pipeline.py": "0f86497b5db456c7b29d68886ffa26440fd9a1dbb36b3eda8c34c9dd4d7dee4c"
+  "scripts/run_pipeline.py": "12d1f40fa6ebc448901976b9960d94ea6f2694a2f801416314222fba60f77835",
+  "scripts/supplementary.py": "cfbe7817ff470c20c8b60fda1ffc871b8888634911ca82c838560502e407a137"
 }

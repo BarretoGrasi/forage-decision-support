@@ -67,8 +67,16 @@ python -m pip install -r requirements-clustering.txt
 python scripts/run_pipeline.py --full-clustering --output results/full_clustering
 ```
 
-## Remaining repository work
+## Supplementary analyses
 
-The separately executed shared-zero, objective-normalisation Monte Carlo, and ecological–productivity pair-frontier sensitivity scripts are not included here. The legacy recommender contains its own analyses, but those must not be mistaken for all three additional supplementary analyses. Add the exact scripts used to produce Supplementary Sections S3.2–S3.4 before claiming full reproduction of the manuscript.
+The default runner also executes the three additional analyses in `scripts/supplementary.py`:
+
+- exclusion of shared climatic zeros, with numerical reconstruction of the original Gower matrix before comparison;
+- min–max objective normalisation over all 126 eligible pairs and paired Monte Carlo comparison using 10,000 Dirichlet(1,1,1) vectors, seed 20260903, unrounded maxima and explicit tie checks;
+- individual ecological–productivity weights 50/50, 60/40 and 70/30, with unchanged post-Pareto weights.
+
+Outputs are written to `results/latest/supplementary/`. The four-scenario figure is written to `results/latest/figures/scenario_fronts.png` and `.pdf`. Pareto membership always uses all three objectives, even in two-dimensional projections.
+
+All three analyses reproduced the supplied supplementary results in the tested environment. The full optional alternative-clustering grid remains unverified.
 
 No licence was chosen on behalf of the authors. Confirm permissions for sharing source data and choose a code/data licence before publishing. No GitHub upload or public repository change was performed.

@@ -10,6 +10,7 @@ import runpy
 import shutil
 import sys
 from figures import generate_figures
+from supplementary import run_supplementary, scenario_figure
 
 def main():
     parser=argparse.ArgumentParser(description=__doc__)
@@ -29,6 +30,8 @@ def main():
             runpy.run_path(str(root/'scripts/reconciliar_xaraes.py'),init_globals={'DIRETORIO_EXECUCAO':out})
             state=runpy.run_path(str(root/'scripts/recomendador_reconciliado_xaraes_mg5.py'),init_globals={'EXECUTAR_CLUSTERING_COMPLETO':args.full_clustering})
             summary=generate_figures(state,out/'figures')
+            scenario_figure(state,out/'figures')
+            summary['supplementary']=run_supplementary(state,out/'supplementary')
         summary['versions']={p:importlib.metadata.version(p) for p in ('numpy','pandas','scipy','scikit-learn','gower','matplotlib')}
         summary['input_sha256']={p.name:hashlib.sha256(p.read_bytes()).hexdigest() for p in (root/'data').glob('*.csv')}
         (out/'run_summary.json').write_text(json.dumps(summary,ensure_ascii=False,indent=2),encoding='utf-8')
