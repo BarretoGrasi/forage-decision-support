@@ -1,0 +1,6 @@
+﻿pos,Direto: par,Direto: score,Direto: pos_score,Direto: dominado?,Pós-Pareto: par,Pós-Pareto: score,Pós-Pareto: pos_score
+1,Paspalum plicatulum + Trifolium spp.,49.4736,1,False,Paspalum plicatulum + Trifolium spp.,49.4736,1
+2,Megathyrsus maximus cv. Aruana + Trifolium spp.,49.2212,2,False,Megathyrsus maximus cv. Aruana + Trifolium spp.,49.2212,2
+3,Paspalum notatum + Trifolium spp.,48.3295,3,False,Paspalum notatum + Trifolium spp.,48.3295,3
+4,Cynodon sp.(Tifton 68) + Trifolium spp.,47.9947,4,False,Cynodon sp.(Tifton 68) + Trifolium spp.,47.9947,4
+5,Urochloa brizantha cv. Marundu + Trifolium spp.,45.607,5,True,Cynodon sp.(Tifton 78) + Trifolium spp.,43.0702,5

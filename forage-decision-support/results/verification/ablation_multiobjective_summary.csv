@@ -1,0 +1,5 @@
+﻿Configuration,N Pareto,Pareto (%),Overlap with full (n),Jaccard,Baseline leader remains Pareto,Top pair,Baseline leader retained as top
+Complete model,10,7.94,10,1.0,True,Urochloa brizantha cv. Marundu + Arachis pintoi cv.Belmonte,True
+Without environmental compatibility,3,2.38,3,0.3,True,Urochloa brizantha cv. Marundu + Arachis pintoi cv.Belmonte,True
+Without functional complementarity,2,1.59,2,0.2,False,Urochloa brizantha cv. Marundu + Stylosanthes guianensis cv. Mineirão,False
+Suitability only,1,0.79,1,0.1,False,Urochloa brizantha cv. Marundu + Stylosanthes guianensis cv. Mineirão,False

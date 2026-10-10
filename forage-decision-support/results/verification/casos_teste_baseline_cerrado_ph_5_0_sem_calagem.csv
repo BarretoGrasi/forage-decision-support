@@ -1,0 +1,6 @@
+﻿caso,obtido,esperado,motivos_esperados,motivos_atendidos,motivos_ausentes,resultado
+Par A — Tanzânia + A. glabrata,verificar,excluido/verificar,"sombreamento, acidez","sombreamento, acidez",,PASSA
+Par B — BRS Capiaçu + A. pintoi Belmonte,excluido,excluido,manejo/uso,manejo/uso,,PASSA
+Par C — Tanzânia + A. pintoi (sem cultivar),excluido,excluido/verificar,cultivar,cultivar,,PASSA
+"Tanzânia isolada em pH 5,0 sem calagem",verificar,excluido/verificar,acidez,acidez,,PASSA
+BRS Capiaçu isolada (uso sob pastejo),excluido,excluido,manejo/uso,manejo/uso,,PASSA

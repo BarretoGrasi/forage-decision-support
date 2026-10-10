@@ -1,0 +1,6 @@
+﻿pos,Direto: par,Direto: score,Direto: pos_score,Direto: dominado?,Pós-Pareto: par,Pós-Pareto: score,Pós-Pareto: pos_score
+1,Urochloa brizantha cv. Marundu + Arachis pintoi cv.Belmonte,62.2842,1,False,Urochloa brizantha cv. Marundu + Arachis pintoi cv.Belmonte,62.2842,1
+2,Urochloa brizantha cv. Marundu + Arachis pintoi cv.Mandobi,61.9787,2,True,Cynodon sp.(Tifton 85) + Arachis pintoi cv.Belmonte,61.843,2
+3,Cynodon sp.(Tifton 85) + Arachis pintoi cv.Belmonte,61.843,3,False,Urochloa brizantha cv. Paiaguás + Arachis pintoi cv.Belmonte,61.8388,3
+4,Urochloa brizantha cv. Paiaguás + Arachis pintoi cv.Belmonte,61.8388,4,False,Urochloa humidicola cv. Tupi + Arachis pintoi cv.Belmonte,61.1769,4
+5,Cynodon sp.(Tifton 85) + Arachis pintoi cv.Mandobi,61.5375,5,True,Megathyrsus maximus cv. Mombaça + Stylosanthes guianensis cv. Mineirão,61.1512,5

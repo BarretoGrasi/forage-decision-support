@@ -1,0 +1,6 @@
+﻿pos,Direto: par,Direto: score,Direto: pos_score,Direto: dominado?,Pós-Pareto: par,Pós-Pareto: score,Pós-Pareto: pos_score
+1,Urochloa brizantha cv. Paiaguás + Stylosanthes guianensis cv. Mineirão,59.3604,1,False,Urochloa brizantha cv. Paiaguás + Stylosanthes guianensis cv. Mineirão,59.3604,1
+2,Megathyrsus maximus cv. Mombaça + Stylosanthes guianensis cv. Mineirão,59.3002,2,False,Megathyrsus maximus cv. Mombaça + Stylosanthes guianensis cv. Mineirão,59.3002,2
+3,Megathyrsus maximus cv. Massai + Stylosanthes guianensis cv. Mineirão,58.931,3,False,Megathyrsus maximus cv. Massai + Stylosanthes guianensis cv. Mineirão,58.931,3
+4,Megathyrsus maximus cv. Zuri + Stylosanthes guianensis cv. Mineirão,58.5647,4,False,Megathyrsus maximus cv. Zuri + Stylosanthes guianensis cv. Mineirão,58.5647,4
+5,Megathyrsus maximus cv. Quenia + Stylosanthes guianensis cv. Mineirão,58.2556,5,True,Megathyrsus maximus cv. Zuri + Stylosanthes macrocephala cv. Campo Grande,56.5617,5

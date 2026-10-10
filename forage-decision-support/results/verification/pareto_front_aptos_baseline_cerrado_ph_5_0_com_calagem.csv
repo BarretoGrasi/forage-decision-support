@@ -1,0 +1,16 @@
+﻿rank_pareto,Gramínea (Principal),Leguminosa (Acompanhante),arranjo,status_par,motivos_exclusao_par,pendencias,score_graminea,score_leguminosa,produtividade_graminea,suitability_media,compatibilidade_ambiental,comp_raiz_norm,comp_estrato_norm,complementaridade_funcional,base_do_score,score_preferencia
+1,Cynodon sp.(Tifton 85),Arachis pintoi cv.Belmonte,consorcio_pastejo,apto,,,66.79,55.27,24.0,0.6103,0.817901,0.340426,1.0,0.670213,completa,64.0066
+2,Urochloa mutica cv. Capim-Angola,Arachis pintoi cv.Belmonte,consorcio_pastejo,apto,,,65.74,55.27,17.84,0.60505,0.838735,0.297872,1.0,0.648936,completa,63.4273
+3,Urochloa brizantha cv. Marundu,Arachis pintoi cv.Belmonte,consorcio_pastejo,apto,,,66.46,55.27,18.5,0.60865,0.854167,0.191489,1.0,0.595745,completa,62.8623
+4,Cenchrus purpureus cv. BRS Kurumi,Arachis pintoi cv.Belmonte,consorcio_pastejo,apto,,,67.14,55.27,27.5,0.61205,0.859568,0.12766,1.0,0.56383,completa,62.5784
+5,Urochloa brizantha cv. Paiaguás,Arachis pintoi cv.Belmonte,consorcio_pastejo,apto,,,64.36,55.27,16.0,0.59815,0.889583,0.191489,1.0,0.595745,completa,62.4207
+6,Megathyrsus maximus cv. Mombaça,Stylosanthes guianensis cv. Mineirão,consorcio_pastejo,apto,,,65.67,54.79,27.5,0.6023,0.919367,0.12766,1.0,0.56383,completa,62.413
+7,Megathyrsus maximus cv. Mombaça,Arachis pintoi cv.Belmonte,consorcio_pastejo,apto,,,65.67,55.27,27.5,0.6047,0.877701,0.12766,1.0,0.56383,completa,62.2087
+8,Urochloa humidicola cv. Tupi,Arachis pintoi cv.Belmonte,consorcio_pastejo,apto,,,62.73,55.27,15.0,0.59,0.940201,0.12766,1.0,0.56383,completa,61.7078
+9,Megathyrsus maximus cv. Zuri,Stylosanthes guianensis cv. Mineirão,consorcio_pastejo,apto,,,63.56,54.79,25.0,0.59175,0.922454,0.12766,1.0,0.56383,completa,61.6738
+10,Urochloa mutica cv. Capim-Angola,Stylosanthes guianensis cv. Mineirão,consorcio_pastejo,apto,,,65.74,54.79,17.84,0.60265,0.880401,0.042553,1.0,0.521277,completa,61.3105
+11,Cenchrus purpureus cv. BRS Kurumi,Stylosanthes guianensis cv. Mineirão,consorcio_pastejo,apto,,,67.14,54.79,27.5,0.60965,0.901235,0.12766,0.3,0.21383,completa,56.419
+12,Megathyrsus maximus cv. Tamani,Stylosanthes guianensis cv. Mineirão,consorcio_pastejo,apto,,,64.42,54.79,17.0,0.59605,0.953704,0.12766,0.3,0.21383,completa,55.9069
+13,Urochloa brizantha cv. Marundu,Stylosanthes guianensis cv. Mineirão,consorcio_pastejo,apto,,,66.46,54.79,18.5,0.60625,0.916667,0.06383,0.3,0.181915,completa,55.7318
+14,Urochloa brizantha cv. Paiaguás,Stylosanthes guianensis cv. Mineirão,consorcio_pastejo,apto,,,64.36,54.79,16.0,0.59575,0.985417,0.06383,0.3,0.181915,completa,55.5932
+15,Megathyrsus maximus cv. Massai,Stylosanthes guianensis cv. Mineirão,consorcio_pastejo,apto,,,54.7,54.79,20.0,0.54745,0.96875,0.12766,0.3,0.21383,completa,52.5092

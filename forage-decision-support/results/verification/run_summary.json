@@ -1,0 +1,21 @@
+{
+  "eligible": 126,
+  "efficient": 10,
+  "dominated": 116,
+  "best_k": 2,
+  "silhouette": 0.5106957102371745,
+  "pearson_r": 0.9846571460293833,
+  "spearman_rho": 0.9802968632025997,
+  "versions": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.17.0",
+    "scikit-learn": "1.8.0",
+    "gower": "0.1.2",
+    "matplotlib": "3.10.8"
+  },
+  "input_sha256": {
+    "correcoes_curadoria.csv": "36d710ac9a31818e076e211c0e7c6e59a4fc15292869f1e4ca9cb1e00941e3e4",
+    "db_pastagem2_original.csv": "6df8f387191cc88f9ac6ee1bd7e3778f6e25280ff6c1c80b72d99c505fb3b63b"
+  }
+}
