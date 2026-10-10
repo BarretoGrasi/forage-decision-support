@@ -1,7 +1,0 @@
-﻿Gramínea (Principal),Leguminosa (Acompanhante),suitability_media,compatibilidade_ambiental,complementaridade_funcional,score_preferencia,pos_pareto_score,pos_pareto_apresentacao,n_empatados_no_score,pos_direto_score,pos_direto_apresentacao,no_shortlist_direto,no_shortlist_pos_pareto
-Paspalum plicatulum,Trifolium spp.,0.55615,0.692901,0.15,49.4736,1,1,1,1,1,True,True
-Megathyrsus maximus cv. Aruana,Trifolium spp.,0.5216,0.877701,0.181915,49.2212,2,2,1,2,2,True,True
-Paspalum notatum,Trifolium spp.,0.5391,0.597068,0.203191,48.3295,3,3,1,3,3,True,True
-Cynodon sp.(Tifton 68),Trifolium spp.,0.51175,0.885417,0.15,47.9947,4,4,1,4,4,True,True
-Cynodon sp.(Tifton 78),Trifolium spp.,0.4395,0.879167,0.171277,43.0702,5,5,1,7,7,False,True
-Cynodon sp.(Florakirk),Trifolium spp.,0.42975,0.879167,0.181915,42.5545,6,6,1,8,8,False,False

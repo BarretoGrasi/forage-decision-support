@@ -1,6 +1,0 @@
-﻿pos,Direto: par,Direto: score,Direto: pos_score,Direto: dominado?,Pós-Pareto: par,Pós-Pareto: score,Pós-Pareto: pos_score
-1,Cynodon sp.(Tifton 85) + Arachis pintoi cv.Belmonte,64.0066,1,False,Cynodon sp.(Tifton 85) + Arachis pintoi cv.Belmonte,64.0066,1
-2,Cynodon sp.(Tifton 85) + Arachis pintoi cv.Mandobi,63.7012,2,True,Urochloa mutica cv. Capim-Angola + Arachis pintoi cv.Belmonte,63.4273,2
-3,Urochloa mutica cv. Capim-Angola + Arachis pintoi cv.Belmonte,63.4273,3,False,Urochloa brizantha cv. Marundu + Arachis pintoi cv.Belmonte,62.8623,3
-4,Urochloa mutica cv. Capim-Angola + Arachis pintoi cv.Mandobi,63.1219,4,True,Cenchrus purpureus cv. BRS Kurumi + Arachis pintoi cv.Belmonte,62.5784,4
-5,Urochloa brizantha cv. Marundu + Arachis pintoi cv.Belmonte,62.8623,5,False,Urochloa brizantha cv. Paiaguás + Arachis pintoi cv.Belmonte,62.4207,5

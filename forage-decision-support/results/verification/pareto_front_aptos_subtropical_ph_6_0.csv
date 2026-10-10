@@ -1,7 +1,0 @@
-﻿rank_pareto,Gramínea (Principal),Leguminosa (Acompanhante),arranjo,status_par,motivos_exclusao_par,pendencias,score_graminea,score_leguminosa,produtividade_graminea,suitability_media,compatibilidade_ambiental,comp_raiz_norm,comp_estrato_norm,complementaridade_funcional,base_do_score,score_preferencia
-1,Paspalum plicatulum,Trifolium spp.,consorcio_pastejo,apto,,,62.89,48.34,16.0,0.55615,0.692901,0.0,0.3,0.15,completa,49.4736
-2,Megathyrsus maximus cv. Aruana,Trifolium spp.,consorcio_pastejo,apto,,,55.98,48.34,16.0,0.5216,0.877701,0.06383,0.3,0.181915,completa,49.2212
-3,Paspalum notatum,Trifolium spp.,consorcio_pastejo,apto,,,59.48,48.34,13.5,0.5391,0.597068,0.106383,0.3,0.203191,completa,48.3295
-4,Cynodon sp.(Tifton 68),Trifolium spp.,consorcio_pastejo,apto,,,54.01,48.34,20.0,0.51175,0.885417,0.0,0.3,0.15,completa,47.9947
-5,Cynodon sp.(Tifton 78),Trifolium spp.,consorcio_pastejo,apto,,,39.56,48.34,18.0,0.4395,0.879167,0.042553,0.3,0.171277,completa,43.0702
-6,Cynodon sp.(Florakirk),Trifolium spp.,consorcio_pastejo,apto,,,37.61,48.34,16.0,0.42975,0.879167,0.06383,0.3,0.181915,completa,42.5545

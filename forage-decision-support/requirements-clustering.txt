@@ -1,9 +1,0 @@
-# Separate compatibility environment for the optional scikit-learn-extra comparison.
-# This environment has not been tested as part of this package.
-numpy==1.26.4
-pandas==2.2.3
-scipy==1.13.1
-scikit-learn==1.5.2
-gower==0.1.2
-matplotlib==3.9.2
-scikit-learn-extra==0.3.0
